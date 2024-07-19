@@ -1,8 +1,8 @@
-# Soft Matter Yutorials
+# Soft Matter Tutorials
 
-You will find in this turorials of the courses gave in Soft matter course given at the Master ICFP, ENS Paris (2020).
+You will find in these repository the courses given in the Soft Matter course at the Master ICFP, ENS Paris (2020). 
 
-The video corresponding to each tutorials can be found on youtube: 
+The video corresponding to each tutorial can be found on YouTube:
 
 [Tutorial 1 - Elasticity of an ideal polymer chain](https://www.youtube.com/watch?v=269RwVjQtSE)
 [Tutorial 2 - The n=0 theorem](https://www.youtube.com/watch?v=2b6FJXihCq8)
