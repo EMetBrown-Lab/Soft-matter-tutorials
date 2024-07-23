@@ -24,3 +24,10 @@ The video corresponding to each tutorial can be found on YouTube:
 
 [Tutorial 9 - Glass transition in thin polymer films](https://www.youtube.com/watch?v=CfStazAoxD4)
 
+[Tutorial 10 - The sol-gel transitinon](https://www.youtube.com/watch?v=Ayf3Sq4uQpI)
+
+[Tutorial 11 - The isotropic-nematic transition](https://www.youtube.com/watch?v=jOqhjWW12YY)
+
+[Tutorial 12 - Stabilization of a microemulsion](https://www.youtube.com/watch?v=bnZNTDu3YOo)
+
+[Tutorial 13 - Polymer dynamics](https://www.youtube.com/watch?v=bXKDM65h_FU)
